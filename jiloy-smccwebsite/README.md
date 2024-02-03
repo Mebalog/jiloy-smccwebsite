@@ -1,2 +1,0 @@
-# jiloy-smccwebsite
- HANDS-ON EXERCISE NO. 5 - (HTML SEMANTIC - SMCC WEBSITE)
